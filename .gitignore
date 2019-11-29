@@ -60,9 +60,6 @@ typings/
 # IDEs
 .idea/
 
-# Build output
-lib
-
 # RESTClient-extension.requests
 RESTClient-extension.requests
 
